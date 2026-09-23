@@ -1,6 +1,6 @@
 # TVET Applicants Dashboard Report
 
-![TVET Applicants Dashboard](github.png)
+![TVET Applicants Dashboard](Screenshot(2).png)
 
 ## Dashboard Summary
 
